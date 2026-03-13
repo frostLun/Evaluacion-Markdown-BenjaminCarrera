@@ -7,7 +7,7 @@ Es un tipo de archivo de texto que utiliza una sintaxis simple para dar formato 
 
 ¿Cual es el proposito del archivo README.md en un repositorio de GitHub?
 
-Sirve para explicar de que trata un proyecto, como funciona, como instalarlo o usarlo y proporcionar informacion importante para las personas que visitan el repositorio.
+*Sirve para explicar de que trata un proyecto, como funciona, como instalarlo o usarlo y proporcionar informacion importante para las personas que visitan el repositorio.*
 
 2. Investigacion de Sintaxis Markdown
 
